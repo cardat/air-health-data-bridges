@@ -1,0 +1,13 @@
+# -----------------------------------------------------------------------------
+# Site settings
+# -----------------------------------------------------------------------------
+
+exclude: ["README.md", "License.md", "air-health-data-bridges.Rproj"]
+highlighter: rouge
+
+title: air-health-data-bridges
+author:
+  name: Ivan Hanigan
+  email: ivan.hanigan@gmail.com
+  github: ivanhanigan
+
