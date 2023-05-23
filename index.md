@@ -7,6 +7,7 @@ title: An ARDC National Data Assets project
 
 ![pic](assets/800-x-500px-air-pollution-580x360.png)
 
+This is the homepage of the ARDC funded Integrated National Air Pollution and Health Data https://doi.org/10.47486/PS022 of the Centre for Air pollution, energy, and health Research (CAR).
 
 Air pollution threatens human health globally, and a big part of it is caused by humans. In cities across Australia, anthropogenic air pollution comes from energy use and transport infrastructure. Air pollution also comes from the landscape. For example, fires and dust cause air pollution, and we are seeing more of these with droughts getting longer and more severe due to climate change. Even at a low level, it is detrimental to public health. To tackle it, public efforts in such areas as cutting emissions have to be coordinated.
 
