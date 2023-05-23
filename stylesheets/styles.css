@@ -293,3 +293,21 @@ footer {
 .dropdown:hover .dropbtn {
   background-color: #474885;
 }
+
+body.car-banner {
+	background-image: url("../assets/car_banner_reflection.png");
+	background-repeat: repeat;
+	background-size: 100%;
+	width: 85%;
+}
+
+p.car-banner {
+	background-image: url("../assets/car_banner.png");
+	width: 65%;
+	height: 220px;
+	margin-left:17.5%;
+}
+
+img.car-banner{
+	width:99%;
+}
