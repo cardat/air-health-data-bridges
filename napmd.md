@@ -51,8 +51,7 @@ The NAPMD could not have been achieved without the professional and timely assis
 
  
 
-NSW Department of Planning, Industry and Environment (DPIE)
-
+- NSW Department of Planning, Industry and Environment (DPIE)
 - Vic Environmental Protection Authority
 - ACT Health Department
 - TAS Environment Protection Authority
